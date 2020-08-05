@@ -23,4 +23,4 @@ eureka:
     service-url:
       defaultZone: http://localhost:8761/eureka
 sms:
-  ip: 1234      #这个IP地址是随便写的
+  ip: 2301      #这个IP地址是随便写的
